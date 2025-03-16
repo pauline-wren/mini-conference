@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oxai-conference/static/css/main.052dcd4f.css",
+    "main.js": "/oxai-conference/static/js/main.8882778f.js",
+    "static/js/453.fdfcb904.chunk.js": "/oxai-conference/static/js/453.fdfcb904.chunk.js",
+    "index.html": "/oxai-conference/index.html",
+    "main.052dcd4f.css.map": "/oxai-conference/static/css/main.052dcd4f.css.map",
+    "main.8882778f.js.map": "/oxai-conference/static/js/main.8882778f.js.map",
+    "453.fdfcb904.chunk.js.map": "/oxai-conference/static/js/453.fdfcb904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052dcd4f.css",
+    "static/js/main.8882778f.js"
+  ]
+}
