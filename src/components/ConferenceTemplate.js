@@ -45,7 +45,7 @@ const ConferenceWebsite = () => {
             </div>
           ) : (
             <div className="bg-green-400 text-black font-bold px-6 py-3 rounded-full text-xl animate-pulse">
-              Event in Progress!
+              Event Finished
             </div>
           )}
         </div>
