@@ -70,7 +70,7 @@ const conferenceData = {
           title: "Panel Discussion on Large Language Models",
           time: "11:00 AM - 12:30 PM",
           venue: "Lecture Theatre B (Department of Computer Science)",
-          moderator: "Puyu Wang",
+          moderator: "Puyu Wang, Emanuele La Malfa",
           organizers: ["Fangru Lin", "Puyu Wang"],
           panelists: [
             { name: "Fangru Lin", affiliation: "DPhil student, Oxford e-Research Centre" },
